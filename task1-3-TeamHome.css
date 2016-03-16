@@ -1,0 +1,64 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: small;
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+	line-height: 1.6em;
+}
+
+#wrap{
+	background-color: #eee;
+	border-width: thin;
+	border-style: solid;
+	border-color: #999;
+	padding: 20px;
+	margin: 20px;
+}
+
+#logo{
+	width: 200px;
+	border-width: thin;
+	border-style: solid;
+	float: left;
+
+}
+
+#logo img{
+	margin: 20px;
+	
+	float: left;
+}
+#logo p{
+
+	
+	margin: 20px 20px 20px 120px;
+	text-align: center;
+	
+}
+
+
+#team{
+	border-width: thin;
+	border-style: solid;
+	margin: 0 140px 0 220px;
+	
+}
+
+
+
+#player{
+	width: 120px;
+	border-width: thin;
+	border-style: solid;
+	float: right;
+	
+}
+.presonal-logo{
+	margin: 20px;
+}
+
+#clearfix{
+	clear: both;
+}
